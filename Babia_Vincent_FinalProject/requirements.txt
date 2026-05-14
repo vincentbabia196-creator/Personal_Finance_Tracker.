@@ -1,0 +1,18 @@
+# Personal Finance Tracker — Python Dependencies
+# All packages listed here are from the Python standard library.
+# No third-party packages are required.
+#
+# Standard library modules used:
+#   - json        (data serialization)
+#   - csv         (CSV export)
+#   - pathlib     (cross-platform path handling)
+#   - uuid        (unique transaction IDs)
+#   - datetime    (date validation and formatting)
+#   - shutil      (atomic file writes / backups)
+#   - tempfile    (safe atomic writes)
+#   - typing      (type hints)
+#   - sys, os     (system utilities)
+#   - functools   (wraps decorator)
+#
+# Python version requirement:
+python_requires>=3.8

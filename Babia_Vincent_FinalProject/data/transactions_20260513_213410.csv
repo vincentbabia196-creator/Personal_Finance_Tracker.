@@ -1,0 +1,30 @@
+transaction_id,date,type,category,amount,description,tags
+778A125A,2026-05-13,income,Business,600.00,to income,
+864A9C58,2026-05-13,income,Business,200.00,okdkmcqjj8u8,
+79263E29,2026-05-13,expense,Food,350.00,"jollibe, Lunch",food|dinong
+4CF8E217,2026-05-11,income,Business,100.00,to my income,
+B4E94C51,2026-05-11,income,Business,600.00,to income,
+X4Y5Z6A7,2024-05-17,expense,Utilities,1100.00,Water and internet bills,utilities|internet
+W3X4Y5Z6,2024-05-15,expense,Personal,2500.00,"Haircut, grooming, personal care",personal|grooming
+V2W3X4Y5,2024-05-12,income,Freelance,7500.00,Mobile app UI design contract,freelance|design|mobile
+U1V2W3X4,2024-05-08,expense,Food,3900.00,Grocery + restaurant meals,food|dining
+T0U1V2W3,2024-05-03,expense,Housing,8500.00,Monthly rent payment,rent|fixed
+S9T0U1V2,2024-05-01,income,Salary,45000.00,Monthly salary - May,salary|regular
+R8S9T0U1,2024-04-21,expense,Entertainment,1800.00,Concert tickets,concert|fun
+Q7R8S9T0,2024-04-18,expense,Transport,650.00,Fuel and toll fees,fuel|transport
+P6Q7R8S9,2024-04-15,expense,Shopping,4200.00,Laptop accessories,tech|work
+O5P6Q7R8,2024-04-10,income,Investment,12000.00,Dividends from stocks,investment|passive
+N4O5P6Q7,2024-04-06,expense,Food,2800.00,Grocery shopping - Robinsons,groceries|food
+M3N4O5P6,2024-04-03,expense,Housing,8500.00,Monthly rent payment,rent|fixed
+L2M3N4O5,2024-04-01,income,Salary,45000.00,Monthly salary - April,salary|regular
+K1L2M3N4,2024-03-22,expense,Education,800.00,Online course - Udemy Python bootcamp,education|python|online
+J0K1L2M3,2024-03-20,expense,Shopping,3500.00,Clothes and shoes - Uniqlo,clothes|shopping
+I9J0K1L2,2024-03-18,expense,Healthcare,1200.00,Annual physical exam,health|checkup
+H8I9J0K1,2024-03-16,expense,Food,2100.00,Dining out - birthday celebration,dining|celebration
+G7H8I9J0,2024-03-14,expense,Entertainment,399.00,Netflix and Spotify subscriptions,subscription|entertainment
+F6G7H8I9,2024-03-12,expense,Utilities,899.00,Electricity bill,utilities|meralco
+E5F6G7H8,2024-03-10,expense,Transport,1500.00,Grab rides and commute,transport|daily
+D4E5F6G7,2024-03-07,expense,Food,3200.00,Grocery shopping - SM Supermarket,groceries|food
+B2C3D4E5,2024-03-05,income,Freelance,5000.00,Web design project payment,freelance|design
+C3D4E5F6,2024-03-03,expense,Housing,8500.00,Monthly rent payment,rent|fixed
+A1B2C3D4,2024-03-01,income,Salary,45000.00,Monthly salary - March,salary|regular

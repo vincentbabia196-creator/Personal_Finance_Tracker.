@@ -1,0 +1,377 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "A1B2C3D4",
+      "amount": 45000.0,
+      "category": "Salary",
+      "description": "Monthly salary - March",
+      "date": "2024-03-01",
+      "transaction_type": "income",
+      "tags": [
+        "salary",
+        "regular"
+      ]
+    },
+    {
+      "transaction_id": "B2C3D4E5",
+      "amount": 5000.0,
+      "category": "Freelance",
+      "description": "Web design project payment",
+      "date": "2024-03-05",
+      "transaction_type": "income",
+      "tags": [
+        "freelance",
+        "design"
+      ]
+    },
+    {
+      "transaction_id": "C3D4E5F6",
+      "amount": 8500.0,
+      "category": "Housing",
+      "description": "Monthly rent payment",
+      "date": "2024-03-03",
+      "transaction_type": "expense",
+      "tags": [
+        "rent",
+        "fixed"
+      ]
+    },
+    {
+      "transaction_id": "D4E5F6G7",
+      "amount": 3200.0,
+      "category": "Food",
+      "description": "Grocery shopping - SM Supermarket",
+      "date": "2024-03-07",
+      "transaction_type": "expense",
+      "tags": [
+        "groceries",
+        "food"
+      ]
+    },
+    {
+      "transaction_id": "E5F6G7H8",
+      "amount": 1500.0,
+      "category": "Transport",
+      "description": "Grab rides and commute",
+      "date": "2024-03-10",
+      "transaction_type": "expense",
+      "tags": [
+        "transport",
+        "daily"
+      ]
+    },
+    {
+      "transaction_id": "F6G7H8I9",
+      "amount": 899.0,
+      "category": "Utilities",
+      "description": "Electricity bill",
+      "date": "2024-03-12",
+      "transaction_type": "expense",
+      "tags": [
+        "utilities",
+        "meralco"
+      ]
+    },
+    {
+      "transaction_id": "G7H8I9J0",
+      "amount": 399.0,
+      "category": "Entertainment",
+      "description": "Netflix and Spotify subscriptions",
+      "date": "2024-03-14",
+      "transaction_type": "expense",
+      "tags": [
+        "subscription",
+        "entertainment"
+      ]
+    },
+    {
+      "transaction_id": "H8I9J0K1",
+      "amount": 2100.0,
+      "category": "Food",
+      "description": "Dining out - birthday celebration",
+      "date": "2024-03-16",
+      "transaction_type": "expense",
+      "tags": [
+        "dining",
+        "celebration"
+      ]
+    },
+    {
+      "transaction_id": "I9J0K1L2",
+      "amount": 1200.0,
+      "category": "Healthcare",
+      "description": "Annual physical exam",
+      "date": "2024-03-18",
+      "transaction_type": "expense",
+      "tags": [
+        "health",
+        "checkup"
+      ]
+    },
+    {
+      "transaction_id": "J0K1L2M3",
+      "amount": 3500.0,
+      "category": "Shopping",
+      "description": "Clothes and shoes - Uniqlo",
+      "date": "2024-03-20",
+      "transaction_type": "expense",
+      "tags": [
+        "clothes",
+        "shopping"
+      ]
+    },
+    {
+      "transaction_id": "K1L2M3N4",
+      "amount": 800.0,
+      "category": "Education",
+      "description": "Online course - Udemy Python bootcamp",
+      "date": "2024-03-22",
+      "transaction_type": "expense",
+      "tags": [
+        "education",
+        "python",
+        "online"
+      ]
+    },
+    {
+      "transaction_id": "L2M3N4O5",
+      "amount": 45000.0,
+      "category": "Salary",
+      "description": "Monthly salary - April",
+      "date": "2024-04-01",
+      "transaction_type": "income",
+      "tags": [
+        "salary",
+        "regular"
+      ]
+    },
+    {
+      "transaction_id": "M3N4O5P6",
+      "amount": 8500.0,
+      "category": "Housing",
+      "description": "Monthly rent payment",
+      "date": "2024-04-03",
+      "transaction_type": "expense",
+      "tags": [
+        "rent",
+        "fixed"
+      ]
+    },
+    {
+      "transaction_id": "N4O5P6Q7",
+      "amount": 2800.0,
+      "category": "Food",
+      "description": "Grocery shopping - Robinsons",
+      "date": "2024-04-06",
+      "transaction_type": "expense",
+      "tags": [
+        "groceries",
+        "food"
+      ]
+    },
+    {
+      "transaction_id": "O5P6Q7R8",
+      "amount": 12000.0,
+      "category": "Investment",
+      "description": "Dividends from stocks",
+      "date": "2024-04-10",
+      "transaction_type": "income",
+      "tags": [
+        "investment",
+        "passive"
+      ]
+    },
+    {
+      "transaction_id": "P6Q7R8S9",
+      "amount": 4200.0,
+      "category": "Shopping",
+      "description": "Laptop accessories",
+      "date": "2024-04-15",
+      "transaction_type": "expense",
+      "tags": [
+        "tech",
+        "work"
+      ]
+    },
+    {
+      "transaction_id": "Q7R8S9T0",
+      "amount": 650.0,
+      "category": "Transport",
+      "description": "Fuel and toll fees",
+      "date": "2024-04-18",
+      "transaction_type": "expense",
+      "tags": [
+        "fuel",
+        "transport"
+      ]
+    },
+    {
+      "transaction_id": "R8S9T0U1",
+      "amount": 1800.0,
+      "category": "Entertainment",
+      "description": "Concert tickets",
+      "date": "2024-04-21",
+      "transaction_type": "expense",
+      "tags": [
+        "concert",
+        "fun"
+      ]
+    },
+    {
+      "transaction_id": "S9T0U1V2",
+      "amount": 45000.0,
+      "category": "Salary",
+      "description": "Monthly salary - May",
+      "date": "2024-05-01",
+      "transaction_type": "income",
+      "tags": [
+        "salary",
+        "regular"
+      ]
+    },
+    {
+      "transaction_id": "T0U1V2W3",
+      "amount": 8500.0,
+      "category": "Housing",
+      "description": "Monthly rent payment",
+      "date": "2024-05-03",
+      "transaction_type": "expense",
+      "tags": [
+        "rent",
+        "fixed"
+      ]
+    },
+    {
+      "transaction_id": "U1V2W3X4",
+      "amount": 3900.0,
+      "category": "Food",
+      "description": "Grocery + restaurant meals",
+      "date": "2024-05-08",
+      "transaction_type": "expense",
+      "tags": [
+        "food",
+        "dining"
+      ]
+    },
+    {
+      "transaction_id": "V2W3X4Y5",
+      "amount": 7500.0,
+      "category": "Freelance",
+      "description": "Mobile app UI design contract",
+      "date": "2024-05-12",
+      "transaction_type": "income",
+      "tags": [
+        "freelance",
+        "design",
+        "mobile"
+      ]
+    },
+    {
+      "transaction_id": "W3X4Y5Z6",
+      "amount": 2500.0,
+      "category": "Personal",
+      "description": "Haircut, grooming, personal care",
+      "date": "2024-05-15",
+      "transaction_type": "expense",
+      "tags": [
+        "personal",
+        "grooming"
+      ]
+    },
+    {
+      "transaction_id": "X4Y5Z6A7",
+      "amount": 1100.0,
+      "category": "Utilities",
+      "description": "Water and internet bills",
+      "date": "2024-05-17",
+      "transaction_type": "expense",
+      "tags": [
+        "utilities",
+        "internet"
+      ]
+    },
+    {
+      "transaction_id": "4CF8E217",
+      "amount": 100.0,
+      "category": "Business",
+      "description": "to my income",
+      "date": "2026-05-11",
+      "transaction_type": "income",
+      "tags": []
+    },
+    {
+      "transaction_id": "B4E94C51",
+      "amount": 600.0,
+      "category": "Business",
+      "description": "to income",
+      "date": "2026-05-11",
+      "transaction_type": "income",
+      "tags": []
+    },
+    {
+      "transaction_id": "778A125A",
+      "amount": 600.0,
+      "category": "Business",
+      "description": "to income",
+      "date": "2026-05-13",
+      "transaction_type": "income",
+      "tags": []
+    },
+    {
+      "transaction_id": "864A9C58",
+      "amount": 200.0,
+      "category": "Business",
+      "description": "okdkmcqjj8u8",
+      "date": "2026-05-13",
+      "transaction_type": "income",
+      "tags": []
+    },
+    {
+      "transaction_id": "79263E29",
+      "amount": 350.0,
+      "category": "Food",
+      "description": "jollibe, Lunch",
+      "date": "2026-05-13",
+      "transaction_type": "expense",
+      "tags": [
+        "food",
+        "dinong"
+      ]
+    },
+    {
+      "transaction_id": "4344E211",
+      "amount": 350.0,
+      "category": "Food",
+      "description": "jollibee Lunch",
+      "date": "2026-05-13",
+      "transaction_type": "expense",
+      "tags": [
+        "food",
+        "dining"
+      ]
+    },
+    {
+      "transaction_id": "5613B653",
+      "amount": 350.0,
+      "category": "Food",
+      "description": "jollibee Lunch",
+      "date": "2026-05-13",
+      "transaction_type": "expense",
+      "tags": [
+        "jollibe",
+        "dining"
+      ]
+    }
+  ],
+  "budgets": {
+    "Food": 5000.0,
+    "Transport": 2000.0,
+    "Entertainment": 1500.0,
+    "Shopping": 3000.0,
+    "Housing": 9000.0,
+    "Utilities": 1500.0,
+    "Healthcare": 2000.0,
+    "Education": 200.0,
+    "Personal": 2000.0
+  }
+}
