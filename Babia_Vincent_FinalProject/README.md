@@ -256,6 +256,5 @@ Section: BSCS-1B| School Year: 2025-2026
 ## 📄 License
 
 This project is for academic and educational purposes.
-
-https://youtu.be/C6ylvpryPGo?si=ctbgS0N_woraqFeG
+https://youtu.be/YEBVt2Gaj7Y?si=Ao6NMYIEyBFozFa0
 
