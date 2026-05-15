@@ -247,10 +247,9 @@ python src/main.py
 ---
 
 ## 👨‍💻 Author
-
-**[Your Name]**
+Vincent Babia 
 Intermediate Python Programming — Final Project
-Section: [Your Section] | School Year: 2024–2025
+Section: BSCS-1B| School Year: 2025-2026
 
 ---
 
