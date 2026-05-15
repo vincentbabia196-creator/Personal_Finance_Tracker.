@@ -194,11 +194,7 @@ python src/main.py
 ---
 
 ## 🎥 YouTube Demonstration
-
-📺 **[Watch the full CLI walkthrough on YouTube](#)**
-> *(Link to be added after recording the demonstration)*
-
----
+https://youtu.be/YEBVt2Gaj7Y?si=Ao6NMYIEyBFozFa0
 
 ## 📁 Data Storage
 
