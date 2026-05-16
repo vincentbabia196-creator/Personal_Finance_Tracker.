@@ -46,26 +46,23 @@ The project was developed as an **Intermediate Python Programming Final Project*
 ## 🗂️ Project Structure
 
 ```
-finance_tracker/
-├── README.md                    ← Project documentation
-├── requirements.txt             ← Dependency list (stdlib only)
-├── data/
-│   └── finance_data.json        ← Sample dataset (24 transactions, 9 budgets)
-└── src/
-    ├── main.py                  ← CLI entry point & App controller
-    ├── models/
-    │   ├── __init__.py
-    │   └── transaction.py       ← Transaction data model
-    ├── services/
-    │   ├── __init__.py
-    │   ├── transaction_service.py  ← CRUD, filtering, analytics
-    │   ├── budget_service.py       ← Budget management & alerts
-    │   └── report_service.py       ← CSV / TXT export
-    └── utils/
-        ├── __init__.py
-        ├── display.py           ← ANSI colours, tables, banners
-        ├── storage.py           ← JSON persistence layer
-        └── validators.py        ← Safe CLI input helpers
+Babia_Vincent_FinalProject/
+├── README.md               ← Full docs with YouTube URL placeholder
+├── requirements.txt        ← Stdlib-only note
+├── src/
+│   ├── main.py             ← Menu loop + all 8 feature handlers
+│   ├── models/
+│   │   └── transaction.py  ← OOP model with to_dict/from_dict
+│   ├── services/
+│   │   ├── transaction_service.py  ← CRUD + filter + analytics
+│   │   ├── budget_service.py       ← Set/remove budgets + alerts
+│   │   └── report_service.py       ← CSV & TXT export
+│   └── utils/
+│       ├── display.py      ← ANSI colors, tables, banners
+│       ├── storage.py      ← JSON read/write layer
+│       └── validators.py   ← Safe input with cancel support
+└── data/
+    └── finance_data.json   ← 10 sample transactions + 5 budgets
 ```
 
 ---
